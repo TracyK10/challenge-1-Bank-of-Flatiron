@@ -83,6 +83,41 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "2021-01-01",
+      "description": "Test Transaction",
+      "category": "Test Category",
+      "amount": 100,
+      "id": 13
+    },
+    {
+      "date": "2021-01-01",
+      "description": "Test Transaction",
+      "category": "Test Category",
+      "amount": 100,
+      "id": 14
+    },
+    {
+      "date": "2021-01-01",
+      "description": "Test Transaction",
+      "category": "Test Category",
+      "amount": 100,
+      "id": 17
+    },
+    {
+      "date": "2024-04-27",
+      "description": "Buying burgers",
+      "category": "Food",
+      "amount": 50,
+      "id": 21
+    },
+    {
+      "date": "2024-04-27",
+      "description": "Buying new novels",
+      "category": "Gift",
+      "amount": 100,
+      "id": 22
     }
   ]
 }
