@@ -118,6 +118,20 @@
       "category": "Gift",
       "amount": 100,
       "id": 22
+    },
+    {
+      "date": "2024-04-29",
+      "description": "Bought electronics",
+      "category": "Gift",
+      "amount": "100",
+      "id": 23
+    },
+    {
+      "date": "2024-04-29",
+      "description": "Bought headphones",
+      "category": "Electronics",
+      "amount": "50",
+      "id": 24
     }
   ]
 }

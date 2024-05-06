@@ -16,7 +16,11 @@ function AccountContainer() {
   // Filter transactions based on search input
   const filteredTransaction = transactions.filter(transactions => searchFilter === "" ? transactions : transactions.description.toLowerCase().includes(searchFilter.toLowerCase()))
 
-  // Function to handle search input changes
+  // Function to handle search input changesgit init
+git add -A
+git commit -m 'Added my project'
+git remote add origin git@github.com:sammy/my-new-project.git
+git push -u -f origin main
   function handleSearch(search){
     setSearchFilter(search)
   }
